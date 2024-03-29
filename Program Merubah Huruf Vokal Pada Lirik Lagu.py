@@ -21,5 +21,5 @@ for huruf in lirik:
     else:
         perubahan += huruf
 
-print("SLirik yang telah dirobah : ",perubahan)
+print("Lirik yang telah dirobah : ",perubahan)
 print()
