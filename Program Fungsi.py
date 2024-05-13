@@ -89,7 +89,7 @@ def konversi(suhu, satuan):
                 print(" SUHU YANG ANDA INPUTKAN TIDAK SESUAI. INPUTKAN KEMBALI!")
                 continue
             celcius = suhu - 273
-            fahrenheit = int((9/5) * (suhu - 273.15) + 32)
+            fahrenheit = int((9/5) * (suhu - 273) + 32)
             reamur = int((4/5) * (suhu - 273))
             print()
             print(" Suhu", suhu ,"derajat", satuan ,"dapat dikonversi menjadi:")
