@@ -1,0 +1,83 @@
+print()
+print(" TUGAS 9 PRAKTIKUM ALGORITMA DAN PEMOGRAMAN")
+print()
+print("Nama  : Salsabilla Tri Putri")
+print("NIM   : 2310431017")
+print("Shift : 2")
+print()
+
+import os
+os.system('cls')
+from termcolor import cprint, colored
+
+for i in range(1):
+    cprint(" "*52,'white',"on_blue",end=" ")
+print()
+
+for j in range (1):
+    cprint(" "*3,end="")
+    print(" "*2, end="")
+    cprint(" "*3, 'blue', "on_white",end="        ")
+    print(" "*2, end="")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end="")
+    cprint(" "*3, 'blue', "on_white", end="   ")
+    print(" "*2, end="")
+    cprint(" "*3, 'blue', "on_white",end="   ")
+    print(" "*2, end=" ")
+    cprint(" "*3, 'blue', "on_white",end=" ")
+    print(" "*2, end=" ")
+print()
+
+for k in range (1):
+    cprint(" "*3,end=" ")
+    print(" "*2, end=" ")
+    cprint(" "*3, 'blue', "on_white",end=" ")
+    print(" "*5, end="")
+    cprint(" "*3, 'blue', "on_white", end=" ")
+    print(" "*3, end="")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*1, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*5, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end=" ")
+print()
+
+for l in range (1):
+    cprint(" "*5,end=" ")
+    print(" "*1, end=" ")
+    cprint(" "*3, 'blue', "on_white",end=" ")
+    print(" "*3, end="")
+    cprint(" "*3, 'blue', "on_white", end=" ")
+    print(" "*4, end="")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*4, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    cprint(" "*3, 'blue', "on_white", end="")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end=" ")
+print()
+
+for m in range (1):
+    cprint(" "*7,end=" ")
+    print(" "*2, end=" ")
+    cprint(" "*4, 'blue', "on_white",end=" ")
+    print(" "*7, end="")
+    cprint(" "*3, 'blue', "on_white", end=" ")
+    print(" "*1, end="")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*5, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end=" ")
+    cprint(" "*3, 'blue', "on_white", end="")
+    print(" "*2, end=" ")
+print()
+
+for n in range(1):
+    cprint(" "*52,'white',"on_yellow",end=" ")
+print()
